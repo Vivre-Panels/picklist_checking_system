@@ -1,0 +1,25 @@
+{
+  "data": {
+    "SubForm_Link_Name": [
+      {
+        "Product_Unique_Code": "Laptop",
+        "Usage_Unit": "Unit",
+        "Rate": 2,
+        "Amount": 45000,
+        "Qty": 2,
+        "Transferred_Quantity": 2
+      },
+      {
+        "Product_Unique_Code": "Mouse",
+        "Usage_Unit": "Unit",
+        "Rate": 1,
+        "Amount": 1200,
+        "Qty": 1,
+        "Transferred_Quantity": 1
+      }
+    ]
+  },
+  "result": {
+    "message": true
+  }
+}
